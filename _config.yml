@@ -1,0 +1,19 @@
+title: Gyrocycle
+author: robenkleene
+email: contact@repla.app
+description: >
+  Demo site for the Gyrocycle Jekyll theme.
+
+twitter_username: robenkleene
+github_username:  robenkleene
+rss: rss
+
+# show_excerpts: true
+show_contents: true
+posts_limit: 5
+
+markdown: kramdown
+theme: gyrocycle
+exclude:
+  - Gemfile
+  - Gemfile.lock
