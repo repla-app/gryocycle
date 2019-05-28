@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Playfair Display", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 h1 {
@@ -47,7 +47,7 @@ h2.post-date {
   font-size: $font-size - 3;
   font-weight: bold;
   text-transform: uppercase;
-  font-family: "LatoWeb", Helvetica, Verdana, sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 header[role=banner] h1 {
@@ -56,16 +56,16 @@ header[role=banner] h1 {
 
 header[role=banner] nav a {
   font-weight: bold;
-  font-family: "LatoWeb", Helvetica, Verdana, sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 header[role=banner] h1 {
-  font-family: "Playfair Display", sans-serif;
+  font-family: "Rubik", sans-serif;
   text-transform: uppercase;
 }
 
 body {
-  font-family: "Crimson", Georgia, "Times New Roman", Times, serif;
+  font-family: "Fira Sans", Helvetica, Verdana, sans-serif;
 }
 
 sub,
@@ -91,6 +91,6 @@ code {
 
 blockquote {
   font-size: $font-size - 1;
-  font-family: "LatoWeb", Helvetica, Verdana, sans-serif;
+  font-family: "Open Sans", Helvetica, Verdana, sans-serif;
   color: #555;
 }
