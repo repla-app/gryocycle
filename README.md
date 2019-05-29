@@ -4,6 +4,8 @@ Blog theme for [repla.app](https://repla.app).
 
 It uses [Raster](https://github.com/robenkleene/raster) to construct a layout using typographic grid.
 
+![Gyrocycle Grid](gyrocycle-grid.png)
+
 ## Raster
 
 To show the raster grid, import the `raster.js` JavaScript in the [HTML `<head>`](_includes/head.html) element:
