@@ -31,13 +31,13 @@ Add the following classes to the [`<body>` and grid `<div>` elements](_layouts/d
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "gyroscope"
+gem "gyrocycle"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: gyroscope
+theme: gyrocycle
 ```
 
 And then execute:
@@ -46,7 +46,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install gyroscope
+    $ gem install gyrocycle
 
 ## License
 

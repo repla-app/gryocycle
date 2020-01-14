@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "gyrocycle"
-  spec.version       = "0.0.3"
+  spec.version       = "0.0.4"
   spec.authors       = ["Roben Kleene"]
   spec.email         = ["contact@repla.app"]
 
