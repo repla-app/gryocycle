@@ -55,6 +55,8 @@ header[role=banner] h1 {
 }
 
 header[role=banner] nav a {
+  line-height: $leading-height * 2;
+  font-size: $english;
   font-weight: bold;
   font-family: "Rubik", sans-serif;
 }
